@@ -4,4 +4,4 @@ This is my personal dairy created for git practice.
 This is my new updated line now i make these corresponding changes.
 In this new line
 Working on task 4.
-This line is updating in github account or remote repository.
+This line is updating in master.
