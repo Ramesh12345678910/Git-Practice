@@ -1,4 +1,5 @@
 
 Hello Iam palisetti Bhaskar Ramesh Sai.
 This is my personal dairy created for git practice.
-This is my new updated line.
+This is my new updated line now i make these corresponding changes.
+In this new line
